@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d4b57ec-7f79-49dc-841e-9991f312e4cd" name="Changes" comment="UseCase9ErrorHandlingValidation.java">
+      <change afterPath="$PROJECT_DIR$/BookMyStayApp/src/UseCase10BookingCancellationInventoryRollback.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+      <option value="repository" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="prateekshabinjola18-ui &lt;prateekshabinjola18@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="UC9" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;prateekshabinjola18-ui&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/prateekshabinjola18-ui/BookMyStay&quot;,
+    &quot;accountId&quot;: &quot;40f3b6ee-ccdf-431d-b46a-7ea6f140b9dc&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3Bn8BDQQpPm3TV6ZRba1vOMMezs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.UseCase7AddOnServiceSelection.executor": "Run",
+    "Application.UseCase8BookingHistoryReport.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "UC10",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Admin/Documents/RA2411030010261/BOOKMYSTAY",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="UseCase8BookingHistoryReport" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UseCase8BookingHistoryReport" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d4b57ec-7f79-49dc-841e-9991f312e4cd" name="Changes" comment="" />
+      <created>1775113336160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775113336160</updated>
+    </task>
+    <task id="LOCAL-00001" summary="UseCase7 service">
+      <option name="closed" value="true" />
+      <created>1775114421927</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1775114421928</updated>
+    </task>
+    <task id="LOCAL-00002" summary="UseCase7 service">
+      <option name="closed" value="true" />
+      <created>1775114439772</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1775114439772</updated>
+    </task>
+    <task id="LOCAL-00003" summary="UseCase7 service">
+      <option name="closed" value="true" />
+      <created>1775114541231</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1775114541231</updated>
+    </task>
+    <task id="LOCAL-00004" summary="UseCase8BookingHistoryReport">
+      <option name="closed" value="true" />
+      <created>1775115126063</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1775115126063</updated>
+    </task>
+    <task id="LOCAL-00005" summary="UseCase8BookingHistoryReport">
+      <option name="closed" value="true" />
+      <created>1775115416421</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1775115416421</updated>
+    </task>
+    <task id="LOCAL-00006" summary="usecase9">
+      <option name="closed" value="true" />
+      <created>1775115936569</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1775115936569</updated>
+    </task>
+    <task id="LOCAL-00007" summary="UseCase9ErrorHandlingValidation.java">
+      <option name="closed" value="true" />
+      <created>1775116009467</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1775116009467</updated>
+    </task>
+    <task id="LOCAL-00008" summary="UseCase9ErrorHandlingValidation.java">
+      <option name="closed" value="true" />
+      <created>1775116938595</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1775116938595</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="UseCase7 service" />
+    <MESSAGE value="UseCase8BookingHistoryReport" />
+    <MESSAGE value="usecase9" />
+    <MESSAGE value="UseCase9ErrorHandlingValidation.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="UseCase9ErrorHandlingValidation.java" />
+  </component>
+</project>
